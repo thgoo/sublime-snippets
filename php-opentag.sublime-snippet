@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[<?php
+$0
+]]></content>
+    <tabTrigger>php</tabTrigger>
+    <description>Just open tag for php</description>
+</snippet>
